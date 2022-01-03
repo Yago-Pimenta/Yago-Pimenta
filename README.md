@@ -1,6 +1,6 @@
 ### Hi there , I'm Yago Pimenta👋
 - 🌱 I’m currently learning python,c and c++
-- 💬 Ask me about math
+- 💬 Computer Science Degree
 - 📫 How to reach me:email -- yagopimenta@estudante.ufscar.br
 - 😄 Pronouns: he,his
  <div>
