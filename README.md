@@ -1,8 +1,8 @@
-### Hi there , I'm Yago Pimenta👋
-- 🌱 I’m currently learning python,c and c++
-- 💬 Computer Science Degree
-- 📫 How to reach me:email -- yagopimenta@estudante.ufscar.br
-- 😄 Pronouns: he,his
+### Oi eu sou o Yago
+- 🌱 Eu tenho conhecimentos em áreas como desenvolvimento web e ciências de dados
+- 💬 Estudante de bacharelado em ciências da computação na UFSCar
+- 📫 Email de contato -- yagopimenta@estudante.ufscar.br
+- 😄 Pronomes: ele,dele
  <div>
   <a href="https://github.com/Yago-Pimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago-Pimenta&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
