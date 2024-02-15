@@ -1,8 +1,8 @@
 ### Oi eu sou o Yago
-- 🌱 Eu tenho conhecimentos em áreas como desenvolvimento web e ciências de dados
-- 💬 Estudante de bacharelado em ciências da computação na UFSCar
-- 📫 Email de contato -- yagopimenta@estudante.ufscar.br
-- 😄 Pronomes: ele,dele
+-  Meu foco é em ciências de dados e desenvolvimento web
+-  Estudante de bacharelado em ciências da computação na UFSCar
+-  Email de contato -- yagopimenta@estudante.ufscar.br
+
  <div>
   <a href="https://github.com/Yago-Pimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago-Pimenta&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
